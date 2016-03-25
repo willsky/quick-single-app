@@ -1,6 +1,6 @@
 {
 	"require": {
-		"willsky/quick": "0.1.1"
+		"willsky/quick": "0.1.2"
 	},
 	"autoload": {
 		"psr-4": {
