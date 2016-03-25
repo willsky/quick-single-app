@@ -1,4 +1,9 @@
 {
+    "name": "willsky/quick-single-app",
+    "description": "Single app temple of the Quick framework",
+    "type": "library",
+    "keywords": ["framework", "php", "quick"],
+    "license": "MIT",
 	"require": {
 		"willsky/quick": "0.1.2"
 	},
