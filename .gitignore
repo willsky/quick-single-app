@@ -1,0 +1,4 @@
+composer.lock
+conf/bootstrap.php
+conf/database.php
+conf/cache.php
