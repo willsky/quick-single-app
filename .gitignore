@@ -1,4 +1,5 @@
 composer.lock
+vendor/*
 conf/bootstrap.php
 conf/database.php
 conf/cache.php
